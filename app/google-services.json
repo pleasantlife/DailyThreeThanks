@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "755354716307",
+    "firebase_url": "https://dailythreethanks.firebaseio.com",
+    "project_id": "dailythreethanks",
+    "storage_bucket": "dailythreethanks.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:755354716307:android:31037eb3d87fd68d",
+        "android_client_info": {
+          "package_name": "com.mdy.android.dailythreethanks"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "755354716307-tni1db0kob4hgi835u4ke1amba8vp54q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mdy.android.dailythreethanks",
+            "certificate_hash": "5f70fc0e480058850f98d19aae431df49c36180f"
+          }
+        },
+        {
+          "client_id": "755354716307-vip0l7vrbgj9vfvgi3283g2oug436v9m.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlQevnTI7Mn7a1gFQIUxz4G8l5FT8HCv4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "755354716307-vip0l7vrbgj9vfvgi3283g2oug436v9m.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
